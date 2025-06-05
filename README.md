@@ -1,1 +1,1 @@
-# this are the programs to practice for pps practical exam
+# these are the programs to practice for pps practical exam
