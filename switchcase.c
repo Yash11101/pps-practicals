@@ -7,7 +7,7 @@ int main()
     int day;
     printf("enter a number");
     scanf("%d",&day);
-    printf("the day with number %d is",day);
+    printf("the day with number %d is ",day);
     switch(day)
     {
         case 1:
